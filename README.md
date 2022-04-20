@@ -2,9 +2,9 @@
 sass/
 
 – **variables**
-   – _color-vars.scss    
-   – _space-vars.scss    
-   – _typography-varss.scss  
+   * _color-vars.scss    
+   * _space-vars.scss    
+   * _typography-varss.scss  
 
 – **utilities**
    – _functions.scss 
