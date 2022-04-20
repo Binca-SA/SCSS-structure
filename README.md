@@ -1,11 +1,11 @@
 # SCSS-structure 🌸
 sass/
-|
-|– variables/
-|   |– _color-vars.scss    
-|   |– _space-vars.scss    
-|   |– _typography-varss.scss  
-|
+
+– variables/
+   |– _color-vars.scss    
+   |– _space-vars.scss    
+   |– _typography-varss.scss  
+
 |– utilities/
 |   |– _functions.scss 
 |   |– _ mixins.scss 
