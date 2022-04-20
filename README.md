@@ -1,5 +1,5 @@
 # SCSS-structure 🌸
-sass/
+sass
 
 – **variables**
    * _color-vars.scss    
