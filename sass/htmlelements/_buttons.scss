@@ -1,0 +1,25 @@
+.btn-main{
+    //no pilla estas dos ordenes//
+    cursor: pointer;
+    border-radius:40px;
+    padding: 0.6em 1.2em;
+    font-size: 14px;
+    font-weight: $semi-bold;
+    margin-top: 1em;
+
+    &--blue{
+        background-color: transparent;
+        color: $color-white;
+        border: 1.5px solid $color-white;
+        &:active{
+            background-color: $color-cta;
+            color: $color-black;
+            border: none;
+        }
+        &:hover{
+            background-color: $color-cta;
+            color: $color-black;
+            border: none;
+        }
+    }
+}

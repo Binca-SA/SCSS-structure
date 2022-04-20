@@ -1,0 +1,17 @@
+//mixim para tamaño desktop header
+@mixin size-desktop-header{
+    @media (min-width:900px){
+        .logotipo-principal{
+            width:200px;
+        }
+        .mobile-subtitle{
+            font-size: 25px;
+            line-height: 70px;
+            margin: 0;
+        }
+        .btns-header{
+            justify-content: flex-end;
+            gap:20px;
+        }
+    }
+}

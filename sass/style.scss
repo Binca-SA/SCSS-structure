@@ -1,0 +1,25 @@
+@import "variables/color-vars";
+@import "variables/spaces-vars";
+@import "variables/typography-vars";
+
+@import "utilities/functions";
+@import "utilities/mixins";
+
+@import "site/site";//general characteristics site
+
+@import "htmlelements/buttons"; //changes default styles of html elements
+@import "htmlelements/links";
+
+@import "layout/header";
+@import "layout/navigation";
+@import "layout/main";
+@import "layout/grid";
+@import "layout/forms";
+@import "layout/footer";
+
+@import "views/home";//home page styles
+@import "views/contact";
+@import "views/shop";
+
+@import "theme/helpers";//classes that you can add to more than one element for the same function
+
